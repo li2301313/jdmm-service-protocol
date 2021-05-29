@@ -1,0 +1,13 @@
+{
+    "name": "jdmm/vhub-service-protocol",
+    "type": "library",
+    "description": "vhub的service包",
+    "license": "Apache-2.0",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Jdmm\\Vhub\\Protocol\\": "src/"
+        }
+    }
+}
